@@ -5,13 +5,16 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adi
 [Complete the Tutorials](#tutorial)  
 [Choosing your first Team](#first)  
 [Using a Replica Team ID to build a Team](#replica)  
-[I can't find my items!](#items)  
 [Transferring Pokémon from other games to champions](#transfer)  
+[I can't find my items!](#items)  
 [Simple Battle Tips](#battle)  
 [Take your time!](#time)  
 [Abilities to watch out for](#abilities)  
 [Experimenting With a New Team](#experimenting)  
 [Other Tips](#tips)  
+[Complete the starter missions!](#missions)  
+[Earn extra VP from achievements!](#achievements)  
+[How to edit your title and badges](#profile)  
 [Additional Resources](#resources)
 
 ---
@@ -30,11 +33,11 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adi
 
 Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex. Adipiscing elit quisque faucibus ex sapien vitae pellentesque.
 
-### I can't find my items! <a name="items"/>
+### Transferring Pokémon from other games to Champions <a name="transfer"/>
 
 Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex. Adipiscing elit quisque faucibus ex sapien vitae pellentesque.
 
-### Transferring Pokémon from other games to Champions <a name="transfer"/>
+### I can't find my items! <a name="items"/>
 
 Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex. Adipiscing elit quisque faucibus ex sapien vitae pellentesque.
 
@@ -63,6 +66,12 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adi
 # Other Tips <a name="tips"/>
 
 Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex. Adipiscing elit quisque faucibus ex sapien vitae pellentesque.
+
+### Complete the starter missions! <a name="missions"/>
+
+### Earn extra VP from achievements! <a name="achievements"/>
+
+### How to edit your title and badges <a name="profile"/>
 
 ---
 
