@@ -2,7 +2,7 @@ blah blah blah
 
 # Table of Contents
 
-Complete the Turorials(#tutorial)
+[Complete the Tutorials](#tutorial)
 
 # Complete the Tutorials <a name="tutorial"/></a>
 
