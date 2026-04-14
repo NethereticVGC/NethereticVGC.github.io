@@ -1,3 +1,6 @@
 title: Netheretic VGC
 tagline: CHAMPIONS INTRODUCTORY ADVICE
 description: A website where I share some basic Pokémon Champions advice
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
