@@ -1,27 +1,55 @@
-blah blah blah
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex. Adipiscing elit quisque faucibus ex sapien vitae pellentesque.
 
 # Table of Contents
 
 [Complete the Tutorials](#tutorial)
+[Choosing your first Team](#first)
+[Using a Replica Team ID to build a Team](#replica)
+[I can't find my items!](#items)
+[Transferring Pokémon from other games to champions](#transfer)
+[Simple Battle Tips](#battle)
+[Take your time!](#time)
+[Abilities to watch out for](#abilities)
+[Experimenting With a New Team](#experimenting)
+[Other Tips](#tips)
+[Additional Resources](#resources)
 
 # Complete the Tutorials <a name="tutorial"/>
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Pretium tellus duis convallis tempus leo eu aenean. Iaculis massa nisl malesuada lacinia integer nunc posuere. Conubia nostra inceptos himenaeos orci varius natoque penatibus. Nulla molestie mattis scelerisque maximus eget fermentum odio. Blandit quis suspendisse aliquet nisi sodales consequat magna. Ligula congue sollicitudin erat viverra ac tincidunt nam. Velit aliquam imperdiet mollis nullam volutpat porttitor ullamcorper. Dui felis venenatis ultrices proin libero feugiat tristique. Cubilia curae hac habitasse platea dictumst lorem ipsum. Sem placerat in id cursus mi pretium tellus. Fringilla lacus nec metus bibendum egestas iaculis massa. Taciti sociosqu ad litora torquent per conubia nostra. Ridiculus mus donec rhoncus eros lobortis nulla molestie. Mauris pharetra vestibulum fusce dictum risus blandit quis. Finibus facilisis dapibus etiam interdum tortor ligula congue. Justo lectus commodo augue arcu dignissim velit aliquam. Primis vulputate ornare sagittis vehicula praesent dui felis. Senectus netus suscipit auctor curabitur facilisi cubilia curae. Quisque faucibus ex sapien vitae pellentesque sem placerat.
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex. Adipiscing elit quisque faucibus ex sapien vitae pellentesque.
 
-# Choosing Your First Team <a name="first"/></a>
+# Choosing Your First Team <a name="first"/>
 
-## Using a Replica Team ID to build a team <a name="replica"/></a>
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex. Adipiscing elit quisque faucibus ex sapien vitae pellentesque.
 
-## I can't find my items! <a name="items"/></a>
+## Using a Replica Team ID to build a team <a name="replica"/>
 
-## Transferring Pokémon from other games to Champions <a name="transfer"/></a>
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex. Adipiscing elit quisque faucibus ex sapien vitae pellentesque.
 
-# Simple Battle Tips <a name="battle"/></a>
+## I can't find my items! <a name="items"/>
 
-## Take your time! <a name="time"/></a>
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex. Adipiscing elit quisque faucibus ex sapien vitae pellentesque.
 
-## Abilities to watch out for <a name="abilities"/></a>
+## Transferring Pokémon from other games to Champions <a name="transfer"/>
 
-# Experimenting With a New Team <a name="experimenting"/></a>
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex. Adipiscing elit quisque faucibus ex sapien vitae pellentesque.
 
-# Other Tips <a name="tips"/></a>
+# Simple Battle Tips <a name="battle"/>
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex. Adipiscing elit quisque faucibus ex sapien vitae pellentesque.
+
+## Take your time! <a name="time"/>
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex. Adipiscing elit quisque faucibus ex sapien vitae pellentesque.
+
+## Abilities to watch out for <a name="abilities"/>
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex. Adipiscing elit quisque faucibus ex sapien vitae pellentesque.
+
+# Experimenting With a New Team <a name="experimenting"/>
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex. Adipiscing elit quisque faucibus ex sapien vitae pellentesque.
+
+# Other Tips <a name="tips"/>
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex. Adipiscing elit quisque faucibus ex sapien vitae pellentesque.
